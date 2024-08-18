@@ -8,20 +8,20 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['‪2‬01080898312', '🔪 JACK ', true],
-  ['201208386317', ' MVRO 💸', true],
+  ['‪+201551660049', ' 𝐽 𝛩 𝐻🎭 𝐴 𝑁 ', true],
+  ['+201551660049', '  𝐽 𝛩 𝐻🎭 𝐴 𝑁', true],
 ];
 
 global.xaxa = 'kana'
-global.suittag = ['201080898312', '201080898312'];
-global.prems = ['201208306317', '201208386317'];
+global.suittag = ['+201551660049', '+201551660049'];
+global.prems = ['+201551660049', '+201551660049'];
 
-global.packname = 'JACK🧸 ';
-global.author = '★JACK🌺★';
-global.wm = '★JACK BOT★';
-global.titulowm = ' JACK ';
-global.titulowm2 = ` JACK `
-global.igfg = ' JACK ';
+global.packname = 'JOHAN🗿 ';
+global.author = '★JOHAN🌺★';
+global.wm = '★JOHAN BOT★';
+global.titulowm = ' JOHAN ';
+global.titulowm2 = ` JOHAN `
+global.igfg = ' JOHAN ';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -45,12 +45,12 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
 global.gt = '★MVRO★';
 global.mysticbot = '★MVRO★';
-global.md = 'https://chat.whatsapp.com/B8eSVHOjh1Y9V8Kbjqbyez';
-global.mysticbot = 'https://chat.whatsapp.com/B8eSVHOjh1Y9V8Kbjqbyez';
+global.md = 'https://whatsapp.com/channel/0029Vah6v1I5fM5chC0pob2Y';
+global.mysticbot = 'https://whatsapp.com/channel/0029Vah6v1I5fM5chC0pob2Y';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waittt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waitttt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
-global.nomorown = '201080898312';
+global.nomorown = '+201551660049';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
